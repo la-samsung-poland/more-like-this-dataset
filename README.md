@@ -11,12 +11,17 @@ Please cite the corresponding paper if you make use of this dataset (bibtex):
 		year = {...}
 	}
 
-The dataset consists of a single file, `ratings.tsv`, with the following columns (tab-separated):
+The dataset consists of a file, `ratings.tsv`, with the following columns (tab-separated):
 
 * `movie_1`: title of a first movie
 * `year_1`: release year of a first movie
 * `movie_2`: title of a second movie
 * `year_2`: release year of a second movie
 * `rating`: OK, NOT_OK
-	
-	
+
+The `evaluation_set.tsv` file contains movies that were used as an input to recommender system for evaluation purposes.
+Movie titles, and their release year are listed in tab-separated format, i.e.
+
+* first column - title of a movie
+* second column - release year
+
