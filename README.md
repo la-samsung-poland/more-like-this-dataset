@@ -25,4 +25,4 @@ Movie titles, and their release year are listed in tab-separated format, i.e.
 * first column - title of a movie
 * second column - release year
 
-The [`sample_movie.json`](sample_movie.json) contains one entry of our Movies Dataset.
+The [`sample_movie.json`](sample_movie.json) contains one entry of our Movies Dataset. The movie plot and summary sections come from [Wikipedia](https://en.wikipedia.org/wiki/Green_Book_(film)) and are redistributed under [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/legalcode).
