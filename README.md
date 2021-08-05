@@ -6,7 +6,7 @@ Please cite the corresponding paper if you make use of this dataset (bibtex):
 
 	@inproceedings{Gawinecki2021what, 
 		author = {Gawinecki, Maciej and Szmyd, Wojciech and Walas, Marcin and Żuchowicz, Urszula}, 
-		title = {What makes a movie good recommendation? Feature selection for Content-Based Filtering}, 
+		title = {What makes a good movie recommendation? Feature selection for Content-Based Filtering}, 
 		booktitle = {...}
 		year = {...}
 	}
